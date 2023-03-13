@@ -1,6 +1,7 @@
 {
   "name": "todo-app",
-  "homepage": "https://sarbmann.ca/todo",
+  "homepage":"https://fantastic-syrniki-d4d54e.netlify.app",
+ 
   "version": "0.1.0",
   "private": true,
   "dependencies": {
